@@ -1,1 +1,1 @@
-# Cats
+# Cats and dogs
